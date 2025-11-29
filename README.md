@@ -1,7 +1,7 @@
 # rooman-resume-screening-agent
 # Resume Screening Agent – Rooman 48-Hour AI Challenge
 
-Live Demo (local): Works perfectly on fresh environment  
+Live Demo (local): Works perfectly on fresh environment  #but it is still half working 
 GitHub: https://github.com/zzlk10/rooman-resume-screening-agent
 
 Features:
