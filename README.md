@@ -17,3 +17,4 @@ To run:
 ```bash
 pip install -r requirements.txt
 streamlit run main.py
+            rankings = screener.rank_resumes(jd_text, resumes)
